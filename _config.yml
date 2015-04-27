@@ -10,6 +10,7 @@ title:            Artem Lavrov
 tagline:          ''
 description:      'My personal blog'
 url:              https://artlavrov.github.io
+comments:         true
 
 author:
   name:           'Artem Lavrov'
