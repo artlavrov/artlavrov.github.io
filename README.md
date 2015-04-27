@@ -1,3 +1,2 @@
-# artlavrov.github.io
+My site, https://artlavrov.github.io
 
-My blog, based on poole/lanyon
