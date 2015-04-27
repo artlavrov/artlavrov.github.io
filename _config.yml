@@ -3,22 +3,19 @@ markdown:         redcarpet
 pygments:         true
 
 # Permalinks
-#
-# Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
-relative_permalinks: true
 
 # Setup
 title:            Artem Lavrov
 tagline:          'Random thoughts'
 description:      'My personal blog'
 url:              https://artlavrov.github.io
-baseurl:          https://artlavrov.github.io
-paginate:         5
 
 author:
   name:           'Artem Lavrov'
   url:            https://artlavrov.github.io
+
+paginate:         5
 
 # Custom vars
 version:          2.0.0
