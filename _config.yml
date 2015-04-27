@@ -9,6 +9,7 @@ title:            Artem Lavrov
 tagline:          'Random thoughts'
 description:      'My personal blog'
 url:              https://artlavrov.github.io
+baseurl:          ''
 paginate:         5
 
 author:
