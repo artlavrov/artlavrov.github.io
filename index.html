@@ -27,7 +27,7 @@ title: Home
     (function () {
         var s = document.createElement('script'); s.async = true;
         s.type = 'text/javascript';
-        s.src = 'https://' + disqus_shortname + '.disqus.com/count.js?https';
+        s.src = '//' + disqus_shortname + '.disqus.com/count.js';
         (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
     }());
 </script>
@@ -49,6 +49,6 @@ title: Home
   {% endif %}
 </div>
 <script>
-    if (window.location.protocol!="https:")
-        window.location.protocol = "https";
+    if (window.location.protocol=="https:")
+        window.location.protocol = "http";
 </script>

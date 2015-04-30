@@ -3,17 +3,17 @@ markdown:         redcarpet
 pygments:         true
 
 # Permalinks
-permalink:           pretty
+permalink:        pretty
 
 # Setup
 title:            Artem Lavrov
 tagline:          ''
 description:      'My personal blog'
-url:              https://artlavrov.github.io
+url:              http://artlavrov.github.io
 
 author:
   name:           'Artem Lavrov'
-  url:            https://artlavrov.github.io
+  url:            http://artlavrov.github.io
 
 paginate:         5
 
