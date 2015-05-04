@@ -9,11 +9,12 @@ permalink:        pretty
 title:            Artem Lavrov
 tagline:          ''
 description:      'My personal blog'
-url:              https://artlavrov.github.io
+url:              https://artlavrov.tk
+enforce_ssl:      artlavrov.tk
 
 author:
   name:           'Artem Lavrov'
-  url:            https://artlavrov.github.io
+  url:            https://github.com/artlavrov
 
 paginate:         5
 
